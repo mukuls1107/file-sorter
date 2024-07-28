@@ -23,7 +23,7 @@ File Sorter is a Node.js script that automatically organizes files in a director
 
 1. Clone this repository or download the script.
 2. Navigate to the project directory.
-3. Install the required package:
+3. Install the required package: `npm install`
 
 
 ## Usage
