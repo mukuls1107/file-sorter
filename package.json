@@ -1,0 +1,16 @@
+{
+  "name": "file_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "work.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0"
+  }
+}
