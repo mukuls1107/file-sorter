@@ -14,6 +14,11 @@ File Sorter is a Node.js script that automatically organizes files in a director
 - Preserves original filenames
 - Skips specific files (package.json, package-lock.json, and work.js)
 
+## Preview
+<video width="320" height="240" autoplay loop>
+  <source src="./file-sort.mp4" type="video/mp4">
+</video>
+
 ## Requirements
 
 - Node.js
